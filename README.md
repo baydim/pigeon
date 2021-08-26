@@ -1,6 +1,10 @@
 # pigeon1
 
-A new Flutter project.
+Smart home mobile apps using flutter
+
+## Design UI
+
+![](https://github.com/baydim/pigeon/blob/36ad84d3ccb300433fbd19c260bf363ff84392f2/assets/Frame%201%20(2).png)
 
 ## Getting Started
 
